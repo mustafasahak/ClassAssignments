@@ -1,4 +1,4 @@
-package assignment_15;
+package question15;
 
 import java.util.Scanner;
 
